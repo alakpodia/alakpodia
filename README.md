@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @alakpodia
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning react
-- 💞️ I’m looking to collaborate on any front end project
-- 📫 How to reach me ...
+- 👀 I’m interested in web development and video game development
+- 🌱 I’m currently learning react & c++
+- 💞️ I’m looking to collaborate on any project that aligns with my intersts
+- 📫 How to reach me ... raymond.alakpodia@gmail.com
 
 <!---
 alakpodia/alakpodia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
